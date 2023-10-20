@@ -1,0 +1,15 @@
+{
+	"sample_id": "",
+	"material_name": "",
+	"material_process_state": "",
+	"notes": "",
+	"eds_overall_composition": {
+		"elements": {
+			"Al": 20, "Co": 20, "Cr": 20, "Fe": 20, "Ni": 20
+		},
+		"units": "at_percent"
+	},
+	"eds_map_elements": "Al Co Cr Fe Ni",
+	"eds_map_unit_type": "wt_percent",
+	"eds_map_format": ".jpg"
+}
