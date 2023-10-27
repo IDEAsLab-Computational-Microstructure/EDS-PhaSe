@@ -40,8 +40,7 @@
    - **_eds_map_format_**: (MANDATORY) Extension of EDS map files: ".jpg" or ".png" or ".bmp"
    
 ### STAGE 2: Cropping the images
-1) Open the "" notebook.
-
+1) **_EDS_PhaSe_Interactive.ipynb_** jupyter notebook provides interactive controls to crop the EDS maps and micrographs. Documentation and video guide will be linked soon.
 
 ### STAGE 3: Analyzng and plotting the EDS data
-
+1) **_EDS_PhaSe_Interactive.ipynb_** jupyter notebook provides interactive controls to visualize, segment and analyze the phases using quantitative analysis of EDS maps. Documentation and video guide will be linked soon.
