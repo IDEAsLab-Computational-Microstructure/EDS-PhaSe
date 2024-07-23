@@ -1,9 +1,9 @@
 # EDS-PhaSe
 ### Publication details:
-[EDS-PhaSe: Phase segmentation and analysis from EDS elemental map images using markers of elemental segregation]() (to be linked soon)
+[EDS-PhaSe: Phase segmentation and analysis from EDS elemental map images using markers of elemental segregation](https://link.springer.com/article/10.1007/s13632-023-01020-7)
 - **Authors** : [Dishant Beniwal](https://github.com/d-beniwal) [^1], V Shivam [^2], O Palasyuk [^3], MJ Kramer [^3], G Phanikumar [^4], Pratik K. Ray [^1]
 - **Journal** : Metallography, Microstructure, and Analysis
-- **DOI** : [to be updated soon] Article is accepted but not available yet
+- **DOI** : https://doi.org/10.1007/s13632-023-01020-7
 [^1]: Department of Metallurgical and Materials Engineering, Indian Institute of Technology Ropar, Rupnagar 140001, Punjab, India
 [^2]: Materials Engineering Division, CSIR-National Metallurgical Laboratory, Jamshedpur – 831007, Jharkhand, India
 [^3]: Ames National Laboratory, US-DOE, Ames, IA – 50011, USA
